@@ -27,10 +27,10 @@ author:
   name             : "Ruoxi Wang"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. student at Shanghai Jiaotong University, specializing in **synthetic aperture radar (SAR) image analysis**, **image fusion**, and **multimodal learning**.  "
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shanghai"
+  employer         : "Shanghai Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "christie_x@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
