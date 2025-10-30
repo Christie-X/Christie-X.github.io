@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ruoxi Wang"
+subtitle: "Ph.D. student in Remote Sensig Image Understanding and Multimodal Learning"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +10,7 @@ redirect_from:
 
 ## 👋 About Me
 
-I am a Ph.D. student at [Shanghai Jiaotong University], specializing in **synthetic aperture radar (SAR) image analysis**, **image fusion**, and **multimodal learning**.  
+I am a Ph.D. student at Shanghai Jiaotong University, specializing in **synthetic aperture radar (SAR) image analysis**, **image fusion**, and **multimodal learning**.  
 My research focuses on integrating radar and optical data for enhanced image interpretation, leveraging deep learning and vision-language models.
 
 I am particularly interested in:
